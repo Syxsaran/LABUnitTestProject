@@ -1,0 +1,6 @@
+C:\Users\saran\source\repos\LABUnitTestProject\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\saran\source\repos\LABUnitTestProject\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\saran\source\repos\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\saran\source\repos\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\saran\source\repos\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\saran\source\repos\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
