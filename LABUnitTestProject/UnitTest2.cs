@@ -57,7 +57,14 @@ namespace LABUnitTestProject
         public void Test_Assignment_4()
         {
             AssignmentClass ac = new AssignmentClass();
-            
+            string password = ac.cheackPassword("abc123");
+            Assert.AreEqual("false", password);
+            password = ac.cheackPassword("abc12345");
+            Assert.AreEqual("true", password);
+            password = ac.cheackPassword("abcdefgh");
+            Assert.AreEqual("false", password);
+            password = ac.cheackPassword("12345678");
+            Assert.AreEqual("false", password);
         }
     }
 }

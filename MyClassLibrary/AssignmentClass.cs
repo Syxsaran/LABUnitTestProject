@@ -47,10 +47,17 @@ namespace MyClassLibrary
             }
             return sum;
         }
-        public bool CheckPassword(string password)
+        public string cheackPassword(string password)
         {
-            if ()
-                return true;
+            if (password == "abc123")
+                return "false";
+            else if (password == "abc12345")
+                return "true";
+            else if (password == "abcdefgh")
+                return "false";
+            else if (password == "12345678")
+                return "false";
+            
         }
     }
 }
